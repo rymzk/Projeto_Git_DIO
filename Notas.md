@@ -13,3 +13,11 @@ git init
 ##Editar
 git add <arquivo> ou git add *
 git commit -m "Mensagem"
+
+##Push
+Se existe so local: git remote add origin https://github.com/rymzk/Projeto_Git_DIO.git
+git push origin
+
+##Misc
+git remote -v -> Link Push e Pull
+git status -> Pendencias
